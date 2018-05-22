@@ -13,3 +13,5 @@ function drawTree (heightTree) {
 		console.log(star);
 	}
 }
+
+drawTree(15);
